@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ba",
+				"background-color"
+			],
+			[
 				"Product",
 				"ProductForm"
 			],
@@ -122,10 +126,6 @@
 			[
 				"border",
 				"border-bottom"
-			],
-			[
-				"ba",
-				"background-color"
 			],
 			[
 				"m",
@@ -263,7 +263,23 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5283,
+				"buffer_size": 2082,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "prueba.html",
+			"settings":
+			{
+				"buffer_size": 2786,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 336,
 				"line_ending": "Unix"
 			}
 		}
@@ -271,9 +287,17 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 400.0,
+		"height": 134.0,
 		"selected_items":
 		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"INSta",
+				"Package Control: Install Package"
+			],
 			[
 				"ins",
 				"Package Control: Install Package"
@@ -284,10 +308,6 @@
 			],
 			[
 				"inst",
-				"Package Control: Install Package"
-			],
-			[
-				"insta",
 				"Package Control: Install Package"
 			],
 			[
@@ -335,7 +355,7 @@
 				"Set Syntax: JavaScript"
 			]
 		],
-		"width": 408.0
+		"width": 520.0
 	},
 	"console":
 	{
@@ -352,6 +372,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/acidm/Desktop/ProgrammingProblemsAndExercises-master/problem56.html",
 		"/C/Users/acidm/Documents/Proyectos Web/bootstrap/bootstrap.sublime-workspace",
 		"/C/Users/acidm/Documents/Python/Django/app1/Shoppy/static/css/base.css",
 		"/C/Users/acidm/Documents/Python/Django/app1/Shoppy/Shoppy_app/Shoppy_app/settings.pyc",
@@ -511,7 +532,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -519,25 +540,83 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 5283,
+						"buffer_size": 2082,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								934,
+								934
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "prueba.html",
+					"settings":
+					{
+						"buffer_size": 2786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1279,
+								1279
+							],
+							[
+								1588,
+								1588
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 847.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								238
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
