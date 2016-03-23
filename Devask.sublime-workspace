@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"co",
+				"color"
+			],
+			[
 				"ba",
 				"background-color"
 			],
@@ -263,7 +267,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2082,
+				"buffer_size": 2930,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 341,
 				"line_ending": "Unix"
 			}
 		},
@@ -271,15 +283,7 @@
 			"file": "prueba.html",
 			"settings":
 			{
-				"buffer_size": 2786,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/main.css",
-			"settings":
-			{
-				"buffer_size": 336,
+				"buffer_size": 3973,
 				"line_ending": "Unix"
 			}
 		}
@@ -372,6 +376,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/acidm/Desktop/Devask-master/index.html",
 		"/C/Users/acidm/Desktop/ProgrammingProblemsAndExercises-master/problem56.html",
 		"/C/Users/acidm/Documents/Proyectos Web/bootstrap/bootstrap.sublime-workspace",
 		"/C/Users/acidm/Documents/Python/Django/app1/Shoppy/static/css/base.css",
@@ -532,7 +537,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -540,47 +545,69 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 2082,
+						"buffer_size": 2930,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								934,
-								934
+								1447,
+								1447
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 337.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "prueba.html",
+					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 2786,
+						"buffer_size": 341,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1279,
-								1279
-							],
+								241,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "prueba.html",
+					"settings":
+					{
+						"buffer_size": 3973,
+						"regions":
+						{
+						},
+						"selection":
+						[
 							[
-								1588,
-								1588
+								1922,
+								1922
 							]
 						],
 						"settings":
@@ -590,33 +617,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 195.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/main.css",
-					"settings":
-					{
-						"buffer_size": 336,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								231,
-								238
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 300.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -679,7 +680,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 236.0,
 	"status_bar_visible": true
 }
