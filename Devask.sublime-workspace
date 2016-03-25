@@ -267,7 +267,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2930,
+				"buffer_size": 2994,
 				"line_ending": "Windows"
 			}
 		},
@@ -275,7 +275,7 @@
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 341,
+				"buffer_size": 337,
 				"line_ending": "Unix"
 			}
 		},
@@ -545,15 +545,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 2930,
+						"buffer_size": 2994,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1447,
-								1447
+								1708,
+								1708
 							]
 						],
 						"settings":
@@ -573,15 +573,15 @@
 					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 341,
+						"buffer_size": 337,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								241,
-								215
+								235,
+								235
 							]
 						],
 						"settings":
@@ -589,7 +589,7 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 51.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -606,8 +606,8 @@
 						"selection":
 						[
 							[
-								1922,
-								1922
+								1704,
+								1661
 							]
 						],
 						"settings":
@@ -617,7 +617,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 300.0,
+						"translation.y": 230.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
