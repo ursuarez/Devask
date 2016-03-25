@@ -275,7 +275,7 @@
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 337,
+				"buffer_size": 341,
 				"line_ending": "Unix"
 			}
 		},
@@ -283,7 +283,7 @@
 			"file": "prueba.html",
 			"settings":
 			{
-				"buffer_size": 3973,
+				"buffer_size": 4389,
 				"line_ending": "Unix"
 			}
 		}
@@ -376,6 +376,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/acidm/Documents/Proyectos Web/Devask/css/icomoon.css",
+		"/C/Users/acidm/Desktop/icomoon/icomoon.css",
 		"/C/Users/acidm/Desktop/Devask-master/index.html",
 		"/C/Users/acidm/Desktop/ProgrammingProblemsAndExercises-master/problem56.html",
 		"/C/Users/acidm/Documents/Proyectos Web/bootstrap/bootstrap.sublime-workspace",
@@ -537,7 +539,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -563,7 +565,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 337.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -573,15 +575,15 @@
 					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 337,
+						"buffer_size": 341,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								235,
-								235
+								241,
+								215
 							]
 						],
 						"settings":
@@ -599,25 +601,25 @@
 					"file": "prueba.html",
 					"settings":
 					{
-						"buffer_size": 3973,
+						"buffer_size": 4389,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1704,
-								1661
+								1301,
+								3128
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 230.0,
+						"translation.y": 197.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -680,7 +682,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 236.0,
 	"status_bar_visible": true
 }
