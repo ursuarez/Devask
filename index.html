@@ -26,7 +26,7 @@
         <![endif]-->
     
         
-        <nav class="navbar navbar-inverse">
+        <!-- <nav class="navbar navbar-inverse">
             <div class="container-fluid">
                 <div class="navbar-header">
                     <button class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -43,14 +43,131 @@
                         <li><a href="#">Preguntas</a></li>
                     </ul>
                 </div>   
-
-
-
             </div>
-        </nav>
+        </nav> -->
 
 
+<nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="#" class="navbar-brand">Devask</a>
+                </div>
 
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                            <li  class="active"><a href="#">Inicio</a></li>
+                            <li><a href="#">Ayuda</a></li>
+                            
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Cursos<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">Bootstrap</a></li>
+                                    <li class="divider"></li>
+                                    <li><a href="#">Django</a></li>
+                                    <li><a href="#">Laravel</a></li>
+                                </ul>
+                            </li>
+                    </ul>                    
+
+                    <form class="navbar-form navbar-left">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Search on DevAsk">
+                            
+                        </div>
+                        <button class="btn btn-primary">Buscar</button>
+                    </form>
+
+                </div>
+            </div>
+        </nav>  
+        
+         <!--    <div class="container">
+               <button class="btn-lg btn-primary">
+                    <span class="icon-facebook"> Facebook</span>    
+               </button>
+               <button class="btn btn-info">
+                    <span class="icon-twitter"> Twitter</span>    
+               </button>
+               <button class="btn btn-danger">
+                    <span class="icon-google-plus"> Google</span>
+                </button>
+
+                <button class="btn-sm btn-default">Hola</button>
+        </div> -->
+        
+        
+       <!--  <div class="container">
+            <h1>Formularios</h1>
+                <form class="form-inline">
+                    <div class="form-group">
+                        <label for="Usuario" class="sr-only">Usuario</label>
+                        <input type="text" class="form-control" id="Usuario" placeholder="Ingresa tu usuario">
+                    </div>
+                    <div class="form-group">
+                        <label for="Contraseña" class="sr-only">Contraseña</label>
+                        <input type="text" class="form-control" id="Contraseña" placeholder="Ingresa tu contraseña">
+                    </div>
+               <button class="btn btn-primary">Login</button>
+                </form>    
+        </div> -->
+        
+
+        <section>
+       <div class="carousel slide" id="miSlider" data-ride="carousel">
+           <ol class="carousel-indicators">
+               <li data-target="#miSlider" data-slide-to="0" class="active"></li>
+               <li data-target="#miSlider" data-slide-to="1"></li>
+               <li data-target="#miSlider" data-slide-to="2"></li>
+           </ol>
+
+           <div class="carousel-inner">
+               <div class="item active">
+                    <a href="#miSlider">
+                        <img src="img/imagen1.jpg" alt="Imagen1">
+                        <div class="carousel-caption">
+                            <h1>Sala</h1>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus, asperiores</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="item">
+                    <img src="img/imagen2.jpg" alt="Imagen2">
+                    <div class="carousel-caption">
+                        <h1>Comedor</h1>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi odit tempore nesciunt sunt quia.</p>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <img src="img/imagen3.jpg" alt="Imagen3">
+                    <div class="carousel-caption">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-12">
+                                <h1>Perro</h1>
+                            </div>
+                            <div class="hidden-xs col-sm-12">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere laudantium corporis ad eos ab tempora reiciendis alias blanditiis hic impedit. Rerum delectus, nostrum facilis iste, quam dolorem sed quidem vero.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+           </div>
+
+           <a href="#miSlider" class="carousel-control left" data-slide="prev">
+               <span class="glyphicon glyphicon-chevron-left"></span>
+           </a>
+
+           <a href="#miSlider" class="carousel-control right" data-slide="next">
+               <span class="glyphicon glyphicon-chevron-right"></span>
+           </a>
+       </div>
+        </section>
         
 
         
