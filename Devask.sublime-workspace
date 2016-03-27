@@ -267,7 +267,15 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2994,
+				"buffer_size": 2991,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "prueba.html",
+			"settings":
+			{
+				"buffer_size": 7727,
 				"line_ending": "Windows"
 			}
 		},
@@ -276,15 +284,15 @@
 			"settings":
 			{
 				"buffer_size": 341,
-				"line_ending": "Unix"
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "prueba.html",
+			"file": "js/main.js",
 			"settings":
 			{
-				"buffer_size": 4389,
-				"line_ending": "Unix"
+				"buffer_size": 60,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -376,6 +384,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Capitulo 10 - Slider/index.html",
+		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Pagina de  Inicio - Devask/css/main.css",
+		"/C/Users/acidm/Desktop/Codigos-Cursos-Profesional-de-Bootstrap-3-master/Pagina de  Inicio - Devask/index.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Devask/css/icomoon.css",
 		"/C/Users/acidm/Desktop/icomoon/icomoon.css",
 		"/C/Users/acidm/Desktop/Devask-master/index.html",
@@ -539,7 +550,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -547,15 +558,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 2994,
+						"buffer_size": 2991,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1708,
-								1708
+								2033,
+								2033
 							]
 						],
 						"settings":
@@ -565,13 +576,41 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 71.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "prueba.html",
+					"settings":
+					{
+						"buffer_size": 7727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1252,
+								6848
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 202.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "css/main.css",
 					"settings":
 					{
@@ -582,8 +621,8 @@
 						"selection":
 						[
 							[
-								241,
-								215
+								328,
+								328
 							]
 						],
 						"settings":
@@ -597,29 +636,27 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "prueba.html",
+					"buffer": 3,
+					"file": "js/main.js",
 					"settings":
 					{
-						"buffer_size": 4389,
+						"buffer_size": 60,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1301,
-								3128
+								37,
+								37
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 197.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -682,7 +719,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 236.0,
 	"status_bar_visible": true
 }
