@@ -275,7 +275,7 @@
 			"file": "prueba.html",
 			"settings":
 			{
-				"buffer_size": 7727,
+				"buffer_size": 9544,
 				"line_ending": "Windows"
 			}
 		},
@@ -586,15 +586,15 @@
 					"file": "prueba.html",
 					"settings":
 					{
-						"buffer_size": 7727,
+						"buffer_size": 9544,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1252,
-								6848
+								7021,
+								8649
 							]
 						],
 						"settings":
@@ -604,7 +604,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1502.0,
+						"translation.y": 549.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
